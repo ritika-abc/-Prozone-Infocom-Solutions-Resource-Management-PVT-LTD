@@ -2793,3 +2793,7 @@ p {
         transform: rotate(360deg);
     }
 }
+
+.offer-section .offer_boxcontent:hover  .lower_portion p{
+    color: white !important;
+}
