@@ -2797,3 +2797,11 @@ p {
 .offer-section .offer_boxcontent:hover  .lower_portion p{
     color: white !important;
 }
+
+.case-box1 img{
+    height: auto;
+    width: 60%;
+}
+.image{
+    text-align: center;
+}

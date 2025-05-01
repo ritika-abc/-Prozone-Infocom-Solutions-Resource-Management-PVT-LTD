@@ -1355,3 +1355,14 @@ p {font-size: 14px; line-height: 20px;}
 .contact-section .contact-box figure {margin-left: 0;}
 .contact-section .need_content {padding: 26px 20px; width: 100%;}
 }
+
+.jus{
+    text-align: justify !important;
+}
+
+.font-sm{
+font-size: 17px !important;
+}
+.fw-bold{
+    font-weight: bold !important;
+}
