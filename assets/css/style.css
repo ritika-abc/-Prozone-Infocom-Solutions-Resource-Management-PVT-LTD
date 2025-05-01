@@ -2805,3 +2805,12 @@ p {
 .image{
     text-align: center;
 }
+
+
+.shadow-lg{
+    transition: 0.4s;
+}
+.shadow-lg:hover{
+
+    transform: translateY(-20px);
+}
