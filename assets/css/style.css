@@ -2828,7 +2828,7 @@ p {
 .case-box .image{
     background-color: rgb(255, 255, 255);
     border: 2px solid rgb(175, 175, 175);
-    height: 150px;
+    height: 200px;
     width: 100%;
     display: flex;
     overflow: hidden;
