@@ -2837,7 +2837,8 @@ p {
     transition: 0.3s;
 }
 .case-box .image:hover{
- filter: brightness(0.5);
-    border: 2px solid rgb(8, 8, 8);
+ transform: rotate(10deg);
+ border-radius: 30px;
+    border: 2px solid rgb(255, 123, 0);
   
 }
