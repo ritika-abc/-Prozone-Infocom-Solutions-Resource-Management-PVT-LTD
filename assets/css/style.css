@@ -576,7 +576,17 @@ p {
     transition: all 0.3s ease-in-out;
 }
 .offer-section .offer_boxcontent:hover{
-    background: var(--e-global-color-primary);
+    background: #f67127;
+}
+.hov:hover{
+    transition: 0.4s;
+    background: #f67127;
+ 
+}
+.hov:hover>h5, .hov:hover p{
+    transition: 0.4s;
+    color: #ffffff;
+ 
 }
 .offer-section .offer_boxcontent:hover h4{
     color: var(--e-global-color-white);
@@ -2813,4 +2823,21 @@ p {
 .shadow-lg:hover{
 
     transform: translateY(-20px);
+}
+
+.case-box .image{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(175, 175, 175);
+    height: 150px;
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+}
+.case-box .image:hover{
+ filter: brightness(0.5);
+    border: 2px solid rgb(8, 8, 8);
+  
 }
